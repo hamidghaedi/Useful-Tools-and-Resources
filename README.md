@@ -6,6 +6,9 @@ A repo to collect a list of useful tools and resources for data analysis
 ##### 1.1) WGS/WXS community reference samples for benhcmarking: 
 A resource of paired tumor-normal reference samples profiled by  whole-genome (WGS) and whole-exome sequencing (WES) data using sixteen library protocols, seven sequencing platforms at six different centers. [ref](https://www.nature.com/articles/s41597-021-01077-5) and [ref](https://www.nature.com/articles/s41587-021-00993-6)
 
+##### 1.2) [GDC Reference Files](https://gdc.cancer.gov/about-data/gdc-data-processing/gdc-reference-files): 
+Reference files used by the GDC data harmonization and generation pipelines are provided below. MD5 checksums are provided for verifying file integrity after download. Additional files are also included to allow for reproduction of GDC pipeline analyses
+
 
 ### 2) single-cell omics
 
