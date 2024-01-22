@@ -1,6 +1,4 @@
-# useful-tools
-A repo to collect a list of useful tools for data analysis
-There are multiple categories:
+A repo to collect a list of useful tools and resources for data analysis
 
 
 ### WGS/WXS
